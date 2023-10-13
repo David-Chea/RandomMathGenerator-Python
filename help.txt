@@ -1,0 +1,1 @@
+To get this working: cmd -> type: pip install colorama
